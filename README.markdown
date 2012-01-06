@@ -152,5 +152,9 @@ Will return the following output (note that `include_wrapper` is set to `no`, me
 capability. There are other plugins that will allow you to format arbitrary dates using EE format 
 codes; use them with the tag pair syntax! [Nice Date][2] by Low is a good choice for this. 
 
+## Screenshots ##
+
+<iframe frameborder='0' height='540' width='100%' src='http://min.us/m8DolYYth#1e'></iframe>
+
 [1]: http://pixelandtonic.com/
 [2]: http://devot-ee.com/add-ons/nice-date
