@@ -154,7 +154,8 @@ codes; use them with the tag pair syntax! [Nice Date][2] by Low is a good choice
 
 ## Screenshots ##
 
-<iframe frameborder='0' height='540' width='100%' src='http://min.us/m8DolYYth#1e'></iframe>
+[Gallery][3]
 
 [1]: http://pixelandtonic.com/
 [2]: http://devot-ee.com/add-ons/nice-date
+[3]: http://min.us/m8DolYYth#1
